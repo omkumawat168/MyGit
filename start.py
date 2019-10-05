@@ -3,6 +3,7 @@ import os
 import sys
 '''
 Usage: start.py <options>
+new changes
 '''
 def main():
     com = sys.argv[1]
